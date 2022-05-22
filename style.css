@@ -58,7 +58,7 @@ nav ul {
 /* Header */
 
 .header-container {
-    background: #eddea4;
+    background: #726da8;
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
@@ -140,7 +140,7 @@ header .hero-image .photo-bg {
     width: 300px;
     height: 428.27px;
     top: 5px;
-    background: #f7a072;
+    background: #726da8;
     transform: rotate(-6deg);
 }
 
